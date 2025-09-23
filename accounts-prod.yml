@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs "
   contactDetails:
     name: "Satish Doe - Product Manager"
-    email: "satish@eazybank.com"
+    email: "{cipher}77ee2ee6fe9646b3f5498b3b36db922495d25845b5cf9f8dd077dca750692629c2748a5c54af895e6411398d3e6784a2"
   onCallSupport:
     - (777) 123-1234
     - (777) 009-1345
