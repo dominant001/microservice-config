@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs "
+  contactDetails:
+    name: "Satish Doe - Product Manager"
+    email: "satish@eazybank.com"
+  onCallSupport:
+    - (777) 123-1234
+    - (777) 009-1345

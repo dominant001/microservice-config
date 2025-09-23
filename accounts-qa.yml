@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Ankit Singh - QA Lead"
+    email: "ankit@eazybank.com"
+  onCallSupport:
+    - (666) 123-1234
+    - (666) 345-1345
